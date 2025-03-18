@@ -33,7 +33,7 @@ Error Handling:
 
 Displays error messages for invalid inputs or operations.
 
-Technologies Used
+Technologies Used:
 Java: The core programming language used for development.
 
 Java Swing: Used for building the graphical user interface (GUI).
@@ -65,19 +65,19 @@ CoursePanel: Provides a GUI for managing courses.
 
 GradePanel: Provides a GUI for managing grades.
 
-DisplayDataPanel: Provides a GUI for displaying student-course-grade relationships.
+DisplayDataPanel: 
+Provides a GUI for displaying student-course-grade relationships.
 
 How to Run the Program
 Prerequisites
-Java Development Kit (JDK): Ensure you have JDK 11 or later installed.
+Java Development Kit (JDK): 
+Ensure you have JDK 11 or later installed.
 
 IDE: Use an IDE like IntelliJ IDEA or Eclipse for easier setup and running.
 
 Steps to Run
 Clone the Repository:
 
-bash
-Copy
 git clone https://github.com/Ojobumiche/StudentManagentSystem-GUI.git
 cd StudentManagementSystem
 Open the Project in Your IDE:
