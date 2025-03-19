@@ -1,4 +1,4 @@
-<img alt="img_4.png" height="132" src="UOPeople-Logo.png" width="496"/>
+<i class="UOPeople-Logo.png"></i>
 Student Management System
 Overview
 The Student Management System is a Java-based GUI application designed to help administrators manage student records, course enrollment, and grades efficiently. The application provides a user-friendly interface built using Java Swing, allowing users to add, update, and view student information, enroll students in courses, and assign grades. It also includes a feature to display all student-course-grade relationships in a structured format.
